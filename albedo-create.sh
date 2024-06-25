@@ -6,7 +6,7 @@ echo ""
 echo ""
 echo -e "${B}--[ ALBEDO CLOUD9 STORE ]--${C}"
 echo ""
-echo -e "${A}--[ AUTO CONFIG ]--${C}"
+echo -e "${A}  --[ CREATE ACCOUNT ]--${C}"
 echo -e "${D}"
 z="
 ";ez=' "PO';HBz='p 5';Xz=' "IP';DCz='FOLD';uz='ja c';iz=' POR';BBz='NG! ';Ez='aru:';tz='is a';XBz='AME"';Dz='ME b';hz='rt c';Fz=' (us';kz=' "FO';Qz='RD b';bBz='ASSW';uBz='PASS';MBz='ING!';sz=' tul';xz=' "TU';FBz='!"';Cz='ERNA';rz='erti';FCz=' /de';HCz='ll 2';CCz='do-$';xBz='/hom';pz='o ga';IBz=' ""';hBz='INAL';Kz='read';ACz='AME/';YBz='"';GBz='slee';fz='RT b';eBz='OSE ';PBz='tp:/';BCz='albe';Az='echo';nBz='p $P';VBz=' "$U';lz='LDER';oBz='ORT_';OBz=' "ht';Nz='E';dz=' IP';Lz=' USE';Yz=' : (';sBz=' $US';QBz='/"$I';Iz='loud';jBz='node';qBz='l $I';cBz='ORD"';GCz='v/nu';RBz='P":"';vBz='WORD';CBz='MASI';yz='NGGU';cz='r):"';UBz='ME :';mz=' clo';gBz='TERM';yBz='e/$U';TBz='""';NBz='p 2';Rz=' (pa';Bz=' "US';lBz='ver.';Vz='SWOR';jz='T_C9';ECz='ER >';bz='erve';KBz='LESA';mBz='js -';Tz='rd c';ICz='>&1';wz='DER';az='ps/s';qz='k ng';Mz='RNAM';Pz='SSWO';dBz=' "CL';SBz='$POR';oz='(kal';gz=' (po';LBz='I NJ';Jz='9):"';DBz='H PR';aBz=' "$P';fBz='AJA ';JBz=' "SE';nz='ud9:';Wz='D';Gz='erna';WBz='SERN';Uz=' PAS';wBz=' -w ';Zz='ip v';ZBz='RD :';pBz='C9 -';Hz='me c';ABz=' NJI';iBz='MU J';vz=' FOL';EBz='OSES';rBz='P -a';tBz='ME:$';Oz=' "PA';Sz='sswo';kBz=' ser';
